@@ -1,38 +1,16 @@
 ---
 title: Hello World
+categories: 朝花夕拾  # 这里定义了文章的分类
+# tags: [前端, JavaScript]  # 这里定义了文章的标签
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+搭建这个博客是为记录自己在生活与学习中的点滴与感悟。在这个社交媒体充斥碎片化信息的时代，我们似乎很少有机会真正坐下来，静静地记录自己的思考。
 
-### Create a new post
+社交媒体上的快餐式分享远不如文字的力量，我需要一个更长久、更个人化的地方去记录我所经历的、所感悟的。
 
-``` bash
-$ hexo new "My New Post"
-```
+我想可以通过博客来整理和反思日常生活中的感受，把那些平时被我忽略的细节拾起来，变成文字，进行深入思考。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+对我而言，这将是一个让自己沉下心来的地方。同时能够在日后回过头来看时，发现自己思想的轨迹和成长的痕迹。
 
-### Run server
+希望这是一个我能够坚持下去的美好开始。
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)

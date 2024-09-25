@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Ryan
+subtitle: '徘徊在虚与实的界限...'
+description: '一个没有故乡的伪物'
 keywords:
-author: John Doe
-language: en
+author: Ryan
+language: zh-CN
 timezone: ''
 
 # URL
@@ -102,3 +102,9 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+live2d:
+  enable: false  # 设置为 false 来关闭右侧小女孩
+
+
+
