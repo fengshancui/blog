@@ -101,7 +101,9 @@ theme: yun
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repository: https://github.com/fengshancui/fengshancui.github.io.git
+  branch: master
 
 live2d:
   enable: false  # 设置为 false 来关闭右侧小女孩
