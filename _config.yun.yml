@@ -33,9 +33,7 @@ comment:
   candidates:  # 评论系统候选
     - waline   # 使用 Waline 评论系统
     # - giscus  # (注释) 另一个候选评论系统
-  tips:  # 自定义评论系统提示
-    - 如果您有任何关于博客内容的相关讨论，欢迎前往 <a href="https://github.com/YunYouJun/yunyoujun.github.io/discussions" target="_blank">GitHub Discussions</a> 与我交流。
-
+    
 waline:
   enable: true  # 启用 Waline 评论系统
   serverURL: https://waline.yunyoujun.cn  # Waline 服务器地址
